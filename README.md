@@ -1,6 +1,4 @@
-# TypeScript + Webpack + Three.js template
-
-[![Build Status](https://travis-ci.org/mterczynski/typescript-webpack-threejs-template.svg?branch=master)](https://travis-ci.org/mterczynski/typescript-webpack-threejs-template)
+# depthbuffer-test
 
 ## Installing dependencies
 
@@ -18,4 +16,3 @@
 
     npm run lint
 
-# depthbuffer-test
